@@ -1,0 +1,12 @@
+id = "slim"
+name = "Slim"
+version = "1.0.0"
+schema_version = 1
+
+description = "Slim template support."
+repository = "https://github.com/calmyournerves/zed-slim"
+authors = ["calmyournerves"]
+
+[grammars.slim]
+repository = "https://github.com/calmyournerves/tree-sitter-slim"
+rev = "5ba2cb36a457f435d162bc215cf3219ffa48a09d"

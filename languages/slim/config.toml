@@ -1,0 +1,3 @@
+name = "Slim"
+grammar = "slim"
+path_suffixes = ["slim", "html.slim"]
