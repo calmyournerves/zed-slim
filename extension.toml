@@ -1,6 +1,6 @@
 id = "slim"
 name = "Slim"
-version = "1.0.0"
+version = "1.0.1"
 schema_version = 1
 
 description = "Slim template support."
